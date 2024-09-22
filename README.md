@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeJunH0&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeJunH0&layout=compact&theme=tokyonight)
 
 ![BaeJunH0's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeJunH0&show_icons=true&theme=radical)
 
