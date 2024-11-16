@@ -5,9 +5,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeJunH0&layout=compact&theme=tokyonight&card_width=440)
 
-
 ### 🏆 BOJ Tier
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh4498)](https://solved.ac/bjh4498/)
+<a href="https://solved.ac/bjh4498/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh4498" width="440" />
+</a>
 
 ### 🛠 Studying About...
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
