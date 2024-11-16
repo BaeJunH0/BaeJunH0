@@ -19,4 +19,4 @@
 ### 📎 Link
 📃 [**기술 블로그**](https://velog.io/@baejunh0/posts)
 
-📗 [**주요 프로젝트모음**]()
+📗 [**주요 프로젝트모음**](https://github.com/BaeJunH0/portfolio)
