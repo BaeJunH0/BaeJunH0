@@ -1,4 +1,10 @@
 ## ✨ BaeJunH0's Github
+### 😀 Intro
+안녕하세요, 주니어 백엔드 개발자 배준호입니다.
+
+Java 진영의 Spring Framwork를 중점적으로 공부하고 있습니다.
+
+최근 관심사는 Spring WebFlux와 비동기 쓰레드 처리에 대한 것입니다.
 
 ### 🛠 Studying About...
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -34,3 +40,5 @@
 📃 [**Velog**](https://velog.io/@baejunh0/posts)
 
 📗 [**Portfolio**](https://github.com/BaeJunH0/portfolio)
+
+📢 [**Email**](bjh14757@naver.com)
