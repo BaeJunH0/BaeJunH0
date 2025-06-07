@@ -40,5 +40,3 @@ Java 진영의 Spring Framwork를 중점적으로 공부하고 있습니다.
 📃 [**Velog**](https://velog.io/@baejunh0/posts)
 
 📗 [**Portfolio**](https://github.com/BaeJunH0/portfolio)
-
-📢 [**Email**](bjh14757@naver.com)
