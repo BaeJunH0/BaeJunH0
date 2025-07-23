@@ -4,7 +4,7 @@
 
 Java 진영의 Spring Framwork를 중점적으로 공부하고 있습니다.
 
-최근 관심사는 Spring WebFlux와 비동기 쓰레드 처리에 대한 것입니다.
+최근 관심사는 Spring WebFlux와 Non-Blcokuing, 멀티 스레드 처리에 대한 것입니다.
 
 ### 🛠 Studying About...
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
