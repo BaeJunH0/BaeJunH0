@@ -4,6 +4,8 @@
 
 Java 진영의 Spring Framwork를 중점적으로 공부하고 있습니다.
 
+모두가 이해할 수 있는 코드를 구현하기 위해 리팩토링에 힘쓰고 있습니다.
+
 최근 관심사는 Spring WebFlux와 Non-Blcoking, 멀티 스레드 처리에 대한 것입니다.
 
 ### 🛠 Studying About...
