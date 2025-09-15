@@ -4,9 +4,7 @@
 
 Java 진영의 Spring Framwork를 중점적으로 공부하고 있습니다.
 
-모두가 이해할 수 있는 코드를 구현하기 위해 리팩토링에 힘쓰고 있습니다.
-
-최근 관심사는 Spring WebFlux와 Non-Blcoking, 멀티 스레드 처리에 대한 것입니다.
+Framework를 깊게 이해하고, 더 나아가서 작동 원리를 파악하고 Framework나 언어에 종속적이지 않은 개발자가 되기 위해서 노력중입니다.
 
 ### 🛠 Studying About...
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
