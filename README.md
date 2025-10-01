@@ -34,9 +34,3 @@ Framework를 깊게 이해하고, 더 나아가서 작동 원리를 파악하고
 
 </div>
 
----
-
-### 📎 Link
-📃 [**Velog**](https://velog.io/@baejunh0/posts)
-
-📗 [**Portfolio**](https://github.com/BaeJunH0/portfolio)
