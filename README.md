@@ -1,12 +1,21 @@
-## ✨ BaeJunH0 | 배준호
-### 😀 Intro
-안녕하세요, 1년차 백엔드 개발자 배준호입니다. 
+# 배준호 / BaeJunH0
 
-Java 진영의 Spring framework를 사용하고, **UX를 고려한 설계**, **생산성 향상**이라는 키워드에 대해서 고민 중입니다.
+## Introduce
+안녕하세요, 1년차 주니어 백엔드 개발자 배준호입니다.
+<br>
+현재 IT 산업기능요원으로 복무중이며, PG 도메인의 **Back Office, Batch** 신규 개발, 고도화 작업을 담당하고 있습니다.
 
-누구든 자유롭게 [대화](https://velog.io/@baejunh0/posts) 나누고자 합니다. <br>
+기술을 기반으로 불편함을 해소하는 것을 좋아하고, 이를 위해서 AI, Infra, Architecture 라는 키워드 기반으로 공부하고 있습니다.
 
-### Git animal
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/BaeJunH0"/>
-</a>
+## Recent Interests
+- InnoDB Engine Based DB Arcitecture (`MySQL`, `MariaDB`)
+- AI Based Document Management (`RAG`, `LLM Wiki`, etc...)
+  
+## Experience 
+- @ Finger Inc
+  - Software Engineer (PayTech Team, 2026.01 ~)
+    
+## Outer Link
+- [개인 블로그](https://baejunh0.github.io/)
+- [링크드인](https://www.linkedin.com/in/%EC%A4%80%ED%98%B8-%EB%B0%B0-106382367/)
+- [이메일](mailto:bjh14757@naver.com)
